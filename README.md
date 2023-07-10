@@ -25,7 +25,7 @@ Watch it on [Google Drive](https://drive.google.com/file/d/1sQy1tvdzSbjq2lkGCovT
 
 Application Preview:
 
-![User going through the interactive book search engine website and starting over.](./public/assets/book.gif)
+![User going through the interactive book search engine website and starting over.](./assets/book.gif)
 
 ## Deployed Webpage
 
